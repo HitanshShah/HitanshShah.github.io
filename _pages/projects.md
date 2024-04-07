@@ -1,11 +1,11 @@
 ---
 layout: page
-title: projects
+title: Projects
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: These are some of the projects I have worked on during my masters degree. These projects helped me explore various domains including Computer Vision, Natural Language Processing, Social Analytics, Distributred Databases, Machine Learning, Data Visualization, and more. They showcase my hands-on experiences with the latest technologies in this forever changing world of tech.
 nav: true
 nav_order: 3
-display_categories: [work, fun]
+display_categories: [academia]
 horizontal: false
 ---
 

@@ -1,16 +1,13 @@
 ---
 layout: page
-title: submenus
+title: Contact
 nav: true
 nav_order: 8
 dropdown: true
 children:
-  - title: publications
-    permalink: /publications/
+  - title: Email
+    permalink: mailto:hitansh.shah@gmail.com
   - title: divider
-  - title: projects
-    permalink: /projects/
-  - title: divider
-  - title: blog
-    permalink: /blog/
+  - title: LinkedIn
+    permalink: https://www.linkedin.com/in/hitanshshah
 ---
