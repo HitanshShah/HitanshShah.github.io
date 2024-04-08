@@ -45,5 +45,3 @@ This is my capstone project from my undergrad degree. In today's world, computer
 <div class="caption">
     Neureon activations for outermost layer for uninfected cell.
 </div>
-
-<strong>Conclusions:</strong>

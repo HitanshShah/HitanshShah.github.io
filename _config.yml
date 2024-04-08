@@ -13,7 +13,7 @@ footer_text: >
   Reach out to me at: <a href="mailto:hitansh.shah@gmail.com">hitansh.shah@gmail.com</a>
 keywords: hitansh shah, hitansh shah portfolio # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: 💻 # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://HitanshShah.github.io # the base hostname & protocol for your site
 baseurl:  # the subpath of your site, e.g. /blog/. Leave blank for root
@@ -73,7 +73,7 @@ facebook_id: # your facebook id
 flickr_id: # your flickr id
 github_username: HitanshShah # your GitHub user name
 gitlab_username: # your GitLab user name
-instagram_id: htnsh.s # your instagram id
+instagram_id: # your instagram id
 kaggle_id: # your kaggle id
 keybase_username: # your keybase user name
 lastfm_id: # your lastfm id
@@ -99,7 +99,7 @@ whatsapp_number: # your WhatsApp number (full phone number in international form
 wikidata_id: # your wikidata id
 wikipedia_id: # your wikipedia id (Case sensitive)
 work_url: # work page URL
-x_username: hitansh_s # your X handle
+x_username: # your X handle
 youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 zotero_username: # your zotero username
 
