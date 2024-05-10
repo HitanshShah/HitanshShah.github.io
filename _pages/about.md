@@ -20,5 +20,5 @@ Namaste! Welcome to my little space on the internet. I am a Computer Science gra
 
 Prior to my masters degree, I began my professional journey as a Software Engineer at Oracle Financial Services Software. To escape the daily grind, I like to immerse myself in the world of online gaming or watching sci-fi movies or shows.
 
-Check out some of my most recent and interesting <a href="/_pages/projects.md">projects</a> and <a href="/_pages/publications.md">research</a> work. Interested in connecting with me? Reach out at <a href="mailto:hitansh.shah@gmail.com">hitansh.shah@gmail.com</a> or via my <a href="https://www.linkedin.com/in/hitanshshah/">LinkedIn</a> profile. Thanks for stopping by!
+Check out some of my most recent and interesting <a href="https://hitanshshah.github.io/projects/">projects</a> and <a href="https://hitanshshah.github.io/publications/">research</a> work. Interested in connecting with me? Reach out at <a href="mailto:hitansh.shah@gmail.com">hitansh.shah@gmail.com</a> or via my <a href="https://www.linkedin.com/in/hitanshshah/">LinkedIn</a> profile. Thanks for stopping by!
 
